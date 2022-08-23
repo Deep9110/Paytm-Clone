@@ -1,4 +1,4 @@
-# Paytm-Clone ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) and ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)   :point_right: [Click Here to See Full Website](https://our-paytm-clone.netlify.app/.netlify.app/) :point_left:
+# Paytm-Clone ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) and ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)   :point_right: [Click Here to See Full Website](https://our-paytm-clone.netlify.app/) :point_left:
 #### By Deep 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
